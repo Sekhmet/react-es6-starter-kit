@@ -14,6 +14,7 @@ Everything else is up to you.
 1. Download Starter Kit
 `git clone git@github.com:Sekhmet/react-es6-starter-kit.git`.
 2. Change `name` and `description` in `package.json`.
+3. Download depedencies: `npm install`.
 3. Develop your app.
 
 Make sure you have `webpack-dev-server` installed:
